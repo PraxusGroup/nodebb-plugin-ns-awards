@@ -23,7 +23,7 @@
     },
     {
       "hook": "static:user.delete",
-      "method": "hooks.filters.userDelete"
+      "method": "deleteUserData"
     },
     {
       "hook": "static:app.load",
